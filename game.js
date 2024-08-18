@@ -187,7 +187,7 @@ function collectItem(mario, item) {
         }, 500)
         
 
-        mario.anims.play('mario-grown-idle', true)
+        // mario.anims.play('mario-grown-idle', true)
     }
 }
 
